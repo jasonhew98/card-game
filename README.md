@@ -1,4 +1,4 @@
-# CardGame
+# A very simple card game simulator
 
 ## Project setup
 ```
